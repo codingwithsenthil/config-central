@@ -1,4 +1,4 @@
 PatientApiUrl: "http://localhost:32075"
 PayerApiUrl: "http://localhost:32085"
 ProviderApiUrl: "http://localhost:32095"
-sampl:"http://googl.com"
+samplapiurl: "http://googl.com"
